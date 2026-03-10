@@ -10,7 +10,7 @@ function Experience() {
         <p className="experience__period">Jul 2022 — Present</p>
         <ul className="experience__list">
           <li>
-            Led full-stack development of an AI agent platform, building an agent
+            Developed an AI agent platform full-stack, building an agent
             orchestration system on the backend with the OpenJiuWen framework
             (LangGraph-like), and implementing interactive interfaces with React
             on the frontend.
