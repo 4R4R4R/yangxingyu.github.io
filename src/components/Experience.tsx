@@ -21,8 +21,8 @@ function Experience() {
             using React, ProseMirror, and Zustand.
           </li>
           <li>
-            Managed large language model framework migration, porting HuggingFace
-            open-source models from PyTorch / Transformers to MindSpore.
+            Participated in large language model framework migration, converting HuggingFace
+            open-source models from PyTorch to MindSpore.
           </li>
           <li>
             Developed multiple backend service systems using Java.
